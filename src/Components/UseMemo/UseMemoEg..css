@@ -1,0 +1,7 @@
+.main {
+  background-image: linear-gradient(pink, rgb(133, 124, 164));
+  width: 70%;
+  margin: 0 auto;
+  text-align: center;
+  border-radius: 5px;
+}
